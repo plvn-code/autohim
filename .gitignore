@@ -55,3 +55,6 @@ data/inbox/
 research/
 data/
 .env*.local
+
+# catalog.py image cache metadata (not used by the site)
+/public/images/p/*.json
