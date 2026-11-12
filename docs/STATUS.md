@@ -1,6 +1,6 @@
 # Status — started 2026-11-13
 
-Local only: http://localhost:3013. No git repo, GitHub or Vercel yet — ask the user first.
+Local: http://localhost:3013. GitHub: https://github.com/plvn-code/autohim (main), pushed 2026-11-13. No Vercel yet — ask the user first.
 
 ## Done
 Full shop in Ukrainian: home (intro, video hero with search, brand marquee, section bento, manifest, hits rail, 6-step care ritual, brand wall, protection video band, own AUTOHIM line, winter picks, perks, gift certificate, store band), catalogue with filters (section / sub-category / brand / price / search / sort, all in the URL, mobile filter sheet), 12 section pages, 42 brand pages, 1021 product pages (zoom lens, quantity, one-click order, delivery info, related), cart drawer + checkout (Nova Poshta / pickup / courier, pay on delivery or card link), instant ⌘K search, call-back modal, delivery & payment page with FAQ, contacts, 404, sitemap, robots, redirects from old ps.me URLs. Checked at 1440 and 390 px, no horizontal scroll.
